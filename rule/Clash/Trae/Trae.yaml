@@ -6,12 +6,13 @@
 # DOMAIN-SUFFIX: 3
 # TOTAL: 7
 payload:
+  - DOMAIN,tron.jiyunhudong.com
+  - DOMAIN,trae-api-sg.mchost.guru
+  - DOMAIN,tnc16-alisg.isnssdk.com
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,byteintlapi.com
   - DOMAIN-SUFFIX,trae.com.cn
-  - DOMAIN,tron.jiyunhudong.com
-  - DOMAIN,trae-api-sg.mchost.guru
-  - DOMAIN,tnc16-alisg.isnssdk.com
   - DOMAIN-KEYWORD,trae-api-sg
   - DOMAIN-KEYWORD,tnc16-alisg
+  - DOMAIN-KEYWORD,trae.com.cn
