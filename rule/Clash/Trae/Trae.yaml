@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,byteintlapi.com
-  - DOMAIN,api.trae.com.cn
+  - DOMAIN-SUFFIX,trae.com.cn
   - DOMAIN,tron.jiyunhudong.com
   - DOMAIN,trae-api-sg.mchost.guru
   - DOMAIN,tnc16-alisg.isnssdk.com
