@@ -8,3 +8,6 @@
 payload:
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN,trae-api-sg.mchost.guru
+  - DOMAIN,tnc16-alisg.isnssdk.com
+  - DOMAIN,pc-mon-sg.byteintlapi.com
