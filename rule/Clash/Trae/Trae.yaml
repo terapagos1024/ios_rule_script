@@ -2,13 +2,16 @@
 # AUTHOR: Terapagos
 # REPO: https://github.com/terapagos1024/ios_rule_script
 # UPDATED: 2025-08-08 13:00:00
-# DOMAIN: 3
+# DOMAIN: 4
 # DOMAIN-SUFFIX: 3
-# TOTAL: 6
+# TOTAL: 7
 payload:
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,byteintlapi.com
   - DOMAIN,api.trae.com.cn
+  - DOMAIN,tron.jiyunhudong.com
   - DOMAIN,trae-api-sg.mchost.guru
   - DOMAIN,tnc16-alisg.isnssdk.com
+  - DOMAIN-KEYWORD,trae-api-sg
+  - DOMAIN-KEYWORD,tnc16-alisg
