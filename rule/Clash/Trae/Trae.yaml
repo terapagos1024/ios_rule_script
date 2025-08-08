@@ -2,9 +2,9 @@
 # AUTHOR: Terapagos
 # REPO: https://github.com/terapagos1024/ios_rule_script
 # UPDATED: 2025-08-08 13:00:00
-# DOMAIN: 4
-# DOMAIN-SUFFIX: 3
-# TOTAL: 7
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 9
+# TOTAL: 11
 payload:
   - DOMAIN-SUFFIX,tron.jiyunhudong.com
   - DOMAIN-SUFFIX,trae-api-sg.mchost.guru
